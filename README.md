@@ -2,7 +2,7 @@
 
 ### Data Engineer for Barnsley Metropolitan Borough Council
 
-<i>I help vulnerable residents of Barnsley improve life outcomes and access better services by solving complex challenges around efficiency and service delivery, by combining lived experience, systems thinking, and a ground up, resident centred approach, with a focus on transparency, simplicity, and ethics. I’m currently building expertise in AI, automation, and data engineering for agentic AI to help local authorities deliver better, more responsive public services.</i>
+<i>I help vulnerable residents of Barnsley improve life outcomes and access better services by solving complex challenges around efficiency and service delivery, by combining lived experience, systems thinking, and a ground up, resident centred approach, with a focus on transparency, simplicity, and ethics. I’m currently building expertise in AI, automation, and data engineering for agentic AI to help local authorities deliver better, more responsive public services, championing the use of ethical AI.</i>
 
 
 ## Horizon Scanning
@@ -10,13 +10,13 @@
 Current experience:
   - Implementation of Microsoft Fabric SaaS platform, building scaleable and resilient ETL pipelines
   - Productionising ML models using supervised/unsupervised learning
-  - Working alongside central government cabient office in implementing and utilising AI in the workplace
+  - Working alongside central government cabinet office in implementing and utilising AI in the workplace
   - Building an 'AI First' data platform
   - Utilising traditional and emerging coding languages, such as SQL, T-SQL, K-SQL, Python, PySpark/Spark
 
 Future development:
   - Building and training a 'Barnsley' LLM
-  - Agentic AI and foundation data preperation
+  - Agentic AI and foundation data preparation
   - Moving on-premise (or virtual on-premise) into cloud infrastructure
   - Enabling Barnsley through digital inclusion and better access to data
 
